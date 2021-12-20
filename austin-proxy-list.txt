@@ -220,3 +220,5 @@ hidester.com
 www.hidester.com
 www.croxyproxy.com
 croxyproxy.com
+proxyscrape.com
+www.proxyscrape.com
