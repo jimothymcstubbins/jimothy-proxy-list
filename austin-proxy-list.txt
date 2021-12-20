@@ -218,3 +218,5 @@ www.windscribe.com
 www.smartproxy.com
 hidester.com
 www.hidester.com
+www.croxyproxy.com
+croxyproxy.com
