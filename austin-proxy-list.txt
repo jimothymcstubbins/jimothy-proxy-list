@@ -216,3 +216,5 @@ www.rsocks.net
 www.expressvpn.com
 www.windscribe.com
 www.smartproxy.com
+hidester.com
+www.hidester.com
