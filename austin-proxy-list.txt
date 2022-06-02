@@ -107,6 +107,7 @@ rsocks.net
 expressvpn.com
 windscribe.com
 smartproxy.com
+4everproxy.com
 www.proxy-2014.com
 www.travelvpn.info
 www.proxmecallmenames.com
@@ -222,3 +223,4 @@ www.croxyproxy.com
 croxyproxy.com
 proxyscrape.com
 www.proxyscrape.com
+www.4everproxy.com
